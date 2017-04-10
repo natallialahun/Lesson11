@@ -85,7 +85,7 @@ public class ClassRunner {
         System.out.println("Choose from these choices");
         System.out.println("-------------------------\n");
         System.out.println("1 - Add new Product");
-        System.out.println("2 - Delete prodict by ID");
+        System.out.println("2 - Delete product by ID");
         System.out.println("3 - Print all Products in Storage");
         System.out.println("4 - Find Product By ID");
         System.out.println("5 - Reload storage");
